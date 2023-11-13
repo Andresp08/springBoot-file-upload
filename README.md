@@ -1,5 +1,9 @@
 # SpringBoot File Upload
 
+`Swagger Documentation`
+
+![file upload success](https://github.com/Andresp08/springBoot-file-upload/assets/45151760/f1ecd288-3b75-4f25-8a31-0e0ccb470d84)
+
 ## Upload files with springboot using opencsv
 
 ## If you want to use this generic file upload without the anotation @CsvBindByName, you can replace the GenericCsvParseToEntity methods for:
